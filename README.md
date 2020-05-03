@@ -2,6 +2,8 @@
 Raigo is a tool to automatically optimise gear selection for [Raid: Shadow
 Legends](https://plarium.com/en/mobile-games/raid-shadow-legends/).
 
+<img src="https://raw.githubusercontent.com/bgrozev/raigo/master/raigo.png">
+
 # Running
 ## Prerequisites
 First check out the repository and install the dependencies:
