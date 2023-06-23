@@ -9,6 +9,6 @@
   "author": "",
   "license": "Apache 2",
   "dependencies": {
-    "csv-parser": "2.3.0"
+    "csv-parser": "2.3.5"
   }
 }
